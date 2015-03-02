@@ -1,0 +1,194 @@
+body {
+	background-color:black;
+	font-family: georgia,sans-serif,font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	width:1000px;
+	margin:0;
+	padding-left:200px;
+	color: black;
+
+}
+
+#header {
+	background-image:url('../images/counterTopLogo.png');
+	background-repeat:no-repeat;
+	background-color:#000000;
+	height: 120px;
+	width:1000px;
+	margin-top:15px;
+	border-bottom: 5px solid white;
+	margin-bottom: 15px;
+
+
+}
+#nav {
+	float:left;
+	margin-right:25px;
+	display:block;
+	background-color:#666666;
+	
+}
+
+#nav a {
+	display:block;
+	width:220px;
+	text-decoration:none;
+	color:black;
+	text-transform:uppercase;
+	padding-top:5px;
+
+}
+#nav th{
+	height:33px;
+	font-size: 18px;
+	background-color:#FFFFFF;
+	text-transform:uppercase;
+}
+
+
+
+#nav a:hover {
+	background-color:#B0C4DE;
+
+}
+
+#nav2 {
+	clear:both;
+	margin-top:20px;
+	float:left;
+	margin-right:25px;
+	display:block;
+	background-color:#ccc;
+}
+
+#nav2 a {
+	display:block;
+	width:220px;
+	text-decoration:none;
+	color: black;
+	text-transform:uppercase;
+
+}
+#nav2 th{
+	color:#000000;
+	height:33px;
+	font-size: 18px;
+	background-color:#FFFFFF;
+	text-transform:uppercase;
+}
+
+#nav2 th a:hover{
+	background-color:#FFFFFF;
+}
+
+#nav2 a:hover {
+	background-color:#B0C4DE;
+
+}
+
+#info{
+	float:right;
+	width:450px;
+	margin: 20px 0px 0px 0px;
+	text-transform: uppercase;
+	background-color:#cccccc;
+	text-align:center;
+
+}
+
+#info td {
+	border-left:medium;
+	border-left-color:#000;
+	border-left-style:solid;
+	}
+#info a {
+
+	text-decoration:none;
+	
+}
+
+#info a:hover{
+	text-decoration:none;
+	background-color:#999;
+	color:#000;
+	
+
+}
+
+
+
+
+ table th{
+	 text-align:left;
+	 background-color:;
+	 }
+ 
+ table th a{
+	color:#0000;
+	background-color:;
+ }
+
+
+#wrapper {
+	width:1010px;
+	height:500px;
+	background-color:#;
+
+
+}
+
+ 
+
+
+
+ 
+
+#header h2 {
+
+}
+#content {
+	
+	clear:right;
+	padding-left: 260px;
+	font-size: .8em;
+	color:white;
+
+}
+ #content-image-numbers ul li {
+
+	padding: 1em;
+	background-color: grey;
+	display:inline;
+	list-style-image: none;
+	opacity:0.75;
+	font-size: .8em;
+
+}
+
+
+
+#content-image {
+	background-image:url('../images/banner03.jpg');
+	background-repeat: no-repeat;
+	float:right;
+	width:750px;
+	height:330px;
+	border: 1px solid white;
+	margin-top:-200px;
+
+}
+ 
+#footer {
+
+	color:white;
+	text-align:center;
+	font-size: .8em;
+	clear:both;
+	width:960px;
+	height:135px;
+}
+
+#footer p {
+
+	padding:10px;
+
+}
